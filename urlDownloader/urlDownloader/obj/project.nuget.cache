@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmwlz59EV563x0Vegz/hTfDSINwn4iv2qSAJDeiw1Cj8wLp8FsmLzH5eAbxBoTXBztQLFhBNPGP5px7Gm2G+yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\swooo\\Documents\\GitHub\\urlDownload\\urlDownloader\\urlDownloader\\urlDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swooo\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

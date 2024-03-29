@@ -1,0 +1,17 @@
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\urlDownloader.exe
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\urlDownloader.deps.json
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\urlDownloader.runtimeconfig.json
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\urlDownloader.dll
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\urlDownloader.pdb
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.csproj.AssemblyReference.cache
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.AssemblyInfoInputs.cache
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.AssemblyInfo.cs
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.csproj.CoreCompileInputs.cache
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownl.BE8F05A0.Up2Date
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.dll
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\refint\urlDownloader.dll
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.pdb
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\urlDownloader.genruntimeconfig.cache
+C:\Users\swooo\Documents\GitHub\urlDownload\urlDownloader\urlDownloader\obj\Debug\net8.0\ref\urlDownloader.dll
